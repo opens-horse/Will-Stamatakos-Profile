@@ -6,7 +6,7 @@ header:
 
 # Welcome​
 
-<img src="https://github.com/opens-horse/Will-Stamatakos-Profile/blob/main/assets/images/25_Will_Stamatakos.jpg?raw=true" width="50%" hspace="20" align="right">
+<img src="https://github.com/opens-horse/Will-Stamatakos-Profile/blob/master/assets/images/25_Will_Stamatakos.jpg?raw=true" width="50%" hspace="20" align="right">
 
 ### Background
 
