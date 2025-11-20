@@ -15,7 +15,7 @@ baseurl: "/Will-Stamatakos-Profile"
 
 
 header:
-  image: /assets/images/25_Will_Stamatakos_0130_ST_p0032-8 - Square headshot.jpg
+  image: "/assets/images/25_Will_Stamatakos_0130_ST_p0032-8 - Square headshot.jpg"
 
 include:
   - _pages
