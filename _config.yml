@@ -15,7 +15,7 @@ baseurl: "/Will-Stamatakos-Profile"
 
 
 header:
-  image: "/assets/images/25_Will_Stamatakos_0130_ST_p0032-8 - Square headshot.jpg"
+  image: "/assets/images/25_Will_Stamatakos.jpg"
 
 include:
   - _pages
@@ -46,7 +46,7 @@ minimal_mistakes_skin: "contrast"
 # settings for author profile
 author:
   name   : "Will Stamatakos"
-  avatar : "/assets/images/25_Will_Stamatakos_0130_ST_p0032-8 - Square headshot.jpg"
+  avatar : "/assets/images/25_Will_Stamatakos.jpg"
   bio    : "Professional cheese consumer. Enjoyer of spherical objects that yell at you."
   location: "DeKalb, Illinois"
   github : 
