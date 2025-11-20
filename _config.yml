@@ -1,13 +1,21 @@
 # Configs
 
-title: "Jekyll Profile"
-name: "A Free Job Market Profile in Jekyll"
-email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
+title: "Will Stamatakos"
+
+name: "Jekyll Website for Will Stamatakos"
+
+email: "l0wercaseq@outlook.comma"
+
+url: "https://opens-horse.github.io"
+
+repository: "opens-horse/Will-Stamatakos-Profile"
+
+baseurl: "/Will-Stamatakos-Profile"
+
+
+
 header:
-  image: /assets/images/banner-husky.jpg
+  image: /assets/images/25_Will_Stamatakos_0130_ST_p0032-8 - Square headshot.jpg
 
 include:
   - _pages
@@ -37,12 +45,12 @@ minimal_mistakes_skin: "contrast"
 
 # settings for author profile
 author:
-  name   : "Mission III"
-  avatar : "/assets/images/banner-husky.jpg"
-  bio    : "My name is Mission III, and I am the official Huskie mascot at Northern Illinois University."
+  name   : "Will Stamatakos"
+  avatar : "/assets/images/25_Will_Stamatakos_0130_ST_p0032-8 - Square headshot.jpg"
+  bio    : "Professional cheese consumer. Enjoyer of spherical objects that yell at you."
   location: "DeKalb, Illinois"
   github : 
-  linkedin: "school/northern-illinois-university" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
+  linkedin: "school/william-stamatakos" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
   email  : 
 
 
