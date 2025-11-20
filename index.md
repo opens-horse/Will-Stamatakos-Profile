@@ -16,8 +16,8 @@ I am a Siberian Husky with striking blue eyes and beautiful black-and-white mark
 
 ### Background
 
-I was born in British Columbia, Canada, and joined the NIU family when I was three months old. I come from a line of champion dogs known for their great temperaments and love for children. My breeder gave me special training to prepare me for my important role as a university mascot.
+Hardworking, detail-oriented individual with a broad range of experience. Proficient in troubleshooting, assembly, CAD software, and writing, with a strong foundation in mechatronics engineering. 
 
-Before coming to NIU, I received early socialization training to help me adapt to various situations. This included exposure to hats, coats, loud noises, and other novel experiences. I'm known for my bravery and eagerness to try new things, which are essential qualities for a mascot who often faces unexpected situations.
+Demonstrated ability to quickly acquire technical skills, achieving certification in an unfamiliar role within 4 weeks. Skilled in using advanced tools and technologies to increase productivity.
 
-When I'm not representing NIU at events, I enjoy playing with my toys, going for walks around campus, and meeting new people. I'm looking forward to fully stepping into my role and becoming an integral part of the Huskie Nation!
+Designed, manufactured parts for, constructed and implemented a removable system to turn a mountain bike into an electric bike.
